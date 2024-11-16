@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @BryWillow
-- 👀 I’m interested in @neuroscience
-- 🌱 I’m currently learning @neuroscience
-- 💞️ I’m looking to collaborate on @neuroscience
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Bryan Camp!
+- 👀 I’m interested in Machine Learning, Neural Networks, and Low-Latency programming.
+- 🌱 I’m currently learning about building and training Neuroscience Models.
+- 💞️ I’m looking to collaborate on projects outside of my comfort zone.
+- 📫 bryancamp@gmail.com
 
 <!---
 BryWillow/BryWillow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
