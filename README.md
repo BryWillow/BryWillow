@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Bryan Camp!
-- 👀 I’m interested in Machine Learning, Neural Networks, and Low-Latency programming.
-- 🌱 I’m currently learning about building and training Neuroscience Models.
-- 💞️ I’m looking to collaborate on projects outside of my comfort zone.
-- 📫 bryancamp@gmail.com
+My interests have been related to Machine Learning, Neural Networks, and Low-Latency programming.
+But I’m also fascinated by Neuroscience, and how to model specific areas of the brain.
+I’m looking to learn and collaborate on projects within this field, specifically the EEG and MRI.
 
 <!---
 BryWillow/BryWillow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
