@@ -4,7 +4,7 @@ Writing, both creative and technical, has always been a passion of mine,
 so you'll usually find my name somewhere on a Wiki page. 
 I love being involved in deep-dive debugging and finding lurking bugs.
 My interests are generally Machine Learning, Neural Networks, FinTech, and HFT.
-But I've developed a fascination with Neuroscience, and modeling the brian.
+But I've developed a fascination with Computational Neuroscience, and modeling the brian.
 I’m looking to collaborate on projects within this field, specifically the EEG.
 
 <!---
