@@ -1,5 +1,5 @@
 👋 Hi, I’m Bryan Camp!
-I'm a software engineer, always curious, yet focused, and a humble leader.
+I'm a software engineer, and a humble leader. I'm always curious, yet focused.
 Writing, both creative and technical, has always been a passion of mine, 
 so you'll usually find my name somewhere on a Wiki page. 
 I love being involved in deep-dive debugging and finding impossible bugs.
